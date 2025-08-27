@@ -8,8 +8,18 @@ Tenho me dedicado ao aprendizado contínuo e ao desenvolvimento de soluções we
 - 💻 Estudante de Programação
 - ⚙️ Apaixonado por Tecnologia
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-# <span>Minhas Skills:</span>
 
+# Meus Projetos:
+- 👾 Portifólio Web: 
+  - [🔗Acesse aqui](https://egeapauletti.github.io/meuPortifolio/)
+  - 🔗[Repositório](https://github.com/egeaPauletti/meuPortifolio)
+- 🕹️ Coding Quest:
+  - 🔗[Repositório - Front end](https://github.com/egeaPauletti/coding-quest-front)
+  - 🔗[Repositório - Back end](https://github.com/egeaPauletti/coding-quest-back)
+- 🌐 CandyLand API:
+  - 🔗[Repositório](https://github.com/jmoranj/candyland-api)
+
+# Minhas Skills:
 # 👨‍💻 Front End:
 <span>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind" />
