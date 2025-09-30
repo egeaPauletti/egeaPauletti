@@ -13,11 +13,12 @@ Tenho me dedicado ao aprendizado contínuo e ao desenvolvimento de soluções we
 - 👾 Portifólio Web: 
   - [🔗Acesse aqui](https://egeapauletti.github.io/meuPortifolio/)
   - 🔗[Repositório](https://github.com/egeaPauletti/meuPortifolio)
-- 🌐 CandyLand API:
-  - 🔗[Repositório](https://github.com/jmoranj/candyland-api)
+- 🌐 CandyLand:
+  - 🔗[Repositório - API](https://github.com/jmoranj/candyland-api)
+  - 🔗[Repositório - WEB](https://github.com/jmoranj/candyland-web)
 - 🕹️ Coding Quest:
-  - 🔗[Repositório - Front end](https://github.com/egeaPauletti/coding-quest-front)
-  - 🔗[Repositório - Back end](https://github.com/egeaPauletti/coding-quest-back)
+  - 🔗[Repositório - API](https://github.com/egeaPauletti/coding-quest-back)
+  - 🔗[Repositório - WEB](https://github.com/egeaPauletti/coding-quest-front)
 
 
 # Minhas Skills:
